@@ -22,7 +22,7 @@ randomized studies alike. This framework is applied to gene expression data
 collected during a clinical trial investigating the effect of a novel treatment
 on disease-free survival in breast cancer.
 
-### Francais:
+### Français:
 
 Les effets hétérogènes de traitement sont déterminés par les modificateurs de
 l'effet du traitement, des variables antérieures au traitement qui modifient
